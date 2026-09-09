@@ -1,0 +1,12 @@
+﻿{
+  "name": "mc-map-atelier",
+  "private": true,
+  "description": "Map atelier for Minecraft - place structures and export to schematic.",
+  "keywords": [
+    "minecraft",
+    "map",
+    "editor",
+    "atelier",
+    "worldedit"
+  ]
+}

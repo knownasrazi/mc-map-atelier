@@ -1,0 +1,7 @@
+﻿* text=auto
+
+*.java text eol=lf
+*.mcfunction text eol=lf
+*.ts text eol=lf
+*.py text eol=lf
+*.go text eol=lf
